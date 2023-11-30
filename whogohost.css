@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+    margin: 10px;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    width: fit-content;
+    background-size: contain;
+    outline: none;
+    margin: auto;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    width: 200px;
+    height: 30px;
+    border-radius: none;
+    border: none;
+    color: white;
+}
+input{
+    padding: 10px;
+}
